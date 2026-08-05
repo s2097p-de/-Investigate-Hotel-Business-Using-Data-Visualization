@@ -1,0 +1,34 @@
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
+
+# Optional Interactive Visualization
+plotly>=5.20.0
+
+# Statistical Analysis
+scipy>=1.11.0
+
+# Machine Learning (Optional)
+scikit-learn>=1.4.0
+
+# Excel Support
+openpyxl>=3.1.2
+xlsxwriter>=3.2.0
+
+# PDF/HTML Export
+nbconvert>=7.16.0
+
+# Progress Bar
+tqdm>=4.66.0
+
+# Image Processing
+Pillow>=10.2.0

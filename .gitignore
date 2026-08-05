@@ -1,0 +1,119 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# ===========================
+# Virtual Environments
+# ===========================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===========================
+# IDEs
+# ===========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Logs
+# ===========================
+*.log
+logs/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.*
+!.env.example
+
+# ===========================
+# Cache
+# ===========================
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===========================
+# Coverage Reports
+# ===========================
+.coverage
+coverage.xml
+htmlcov/
+
+# ===========================
+# Data Files (Keep Large Datasets Out of Git)
+# ===========================
+data/raw/
+data/interim/
+data/external/
+*.zip
+*.7z
+
+# Uncomment if you don't want to track CSV files
+# *.csv
+
+# ===========================
+# Generated Reports
+# ===========================
+reports/
+output/
+exports/
+*.pdf
+*.html
+
+# ===========================
+# Images Generated During Analysis
+# ===========================
+figures/
+plots/
+charts/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# ===========================
+# Model Files
+# ===========================
+models/
+*.pkl
+*.joblib
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.temp
+*.bak

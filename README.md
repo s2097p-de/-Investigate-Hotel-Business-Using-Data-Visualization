@@ -122,7 +122,7 @@ Hotel_Business_Analytics/
 *Data Analyst / Business Analytics Specialist*
 
 * 📧 **Email:** [s2097p@gmail.com](mailto:s2097p@gmail.com)
-* 💼 **LinkedIn:** [Santanu Pathak](www.linkedin.com/in/santanu-pathak-analyst)
+* 💼 **LinkedIn:** [Santanu Pathak](https://www.linkedin.com/in/santanu-pathak-analyst/)
 * 💻 **GitHub:** [@s2097p-de](https://github.com/s2097p-de)
 
 ---
